@@ -13,7 +13,7 @@ papers:
     first_author: true
     url: "#"
     
-    - title: "Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs"
+  - title: "Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs"
     authors: ["Qian Li", "Siyuan Liang", "Yuzheng Zhang", "Cheng Ji", "Zongyu Chang", "Shangguang Wang"]
     venue: "MM"
     venue_full: "ACM Multimedia"
