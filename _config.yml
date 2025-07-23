@@ -81,10 +81,10 @@ navigation:
     url: "/#awards"
   - title: "Services"
     url: "/#services"
-  - title: "Mentorship"
-    url: "/#mentorship"
-  - title: "Join Us"
-    url: "/#openings"
+  # - title: "Mentorship"
+  #   url: "/#mentorship"
+  # - title: "Join Us"
+  #   url: "/#openings"
 
 # Features
 features:
