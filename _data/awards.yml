@@ -1,47 +1,26 @@
 # 奖项与荣誉
 awards:
-  - title: "Best Paper Honorable Mention Award"
+  - title: "Best Paper Candidate"
     organization: "CIKM 2022"
     year: 2022
     type: "Academic Award"
     featured: true
     icon: "🏆"
     
-  - title: "ESI Highly Cited Papers"
-    organization: "ACM TIST"
-    year: 2024
-    type: "Research Impact"
+  - title: "Best Paper Candidate"
+    organization: "ICDM 2021"
+    year: 2021
+    type: "Academic Award"
     featured: true
-    icon: "📈"
+    icon: "🏆"
     
-  - title: "ESI Highly Cited Papers"
-    organization: "ACM TNNLS"
-    year: 2025
-    type: "Research Impact"
-    featured: true
-    icon: "📈"
-    
-  # - title: "Travel Awards"
-  #   organization: "WWW 2023"
-  #   year: 2023
-  #   type: "Conference Award"
-  #   featured: false
-  #   icon: "✈️"
-    
-  - title: "Technical Innovation Award"
-    organization: "IEEE Computer Society TCCLD"
+  - title: "自然科学一等奖"
+    organization: "中国电子学会"
     year: 2024
-    type: "Technical Award"
-    featured: true
-    icon: "💡"
-    
-  - title: "Outstanding Graduates of Beijing"
-    organization: "Beijing Municipal Government"
-    year: 2024
-    type: "Academic Achievement"
+    type: "Academic Award"
     featured: true
     icon: "🎓"
-    
+          
   - title: "Outstanding Academic Innovation Achievement Award"
     organization: "Beihang University"
     year: 2023
@@ -49,34 +28,9 @@ awards:
     featured: false
     icon: "🎓"
     
-  - title: "Innovation Scholarship"
-    organization: "School of Computer Science, Beihang University"
-    year: 2023
-    type: "Scholarship"
-    featured: false
-    icon: "🎓"
 
 # 竞赛成果
-competitions:
-  - title: "CodaLab International Competition 2021"
-    track: "MAVEN Channel"
-    rank: "Top 1"
-    year: 2021
-    featured: true
-    icon: "🥇"
-    
-  - title: "CCKS 2021 Fine-grained Event Detection Competition"
-    rank: "Top 1"
-    year: 2021
-    featured: true
-    icon: "🥇"
-    
-  - title: "CCKS 2020 Few-shot Cross-domain Event Extraction Competition"
-    rank: "Top 1"
-    year: 2020
-    featured: true
-    icon: "🥇"
-    
+competitions:     
   - title: "China International College Student Innovation Competition"
     rank: "National Silver Award"
     year: 2023
