@@ -157,7 +157,7 @@ title: "Home"
         
         <!-- Publications List -->
         <div class="publications-list" id="publicationsList">
-            {% assign sorted_papers = site.data.publications.papers | sort: 'year' | reverse %}
+            {% assign sorted_papers = site.data.publications.papers | sort: 'year' %}
             {% for paper in sorted_papers %}
             <article class="pub-item{% if forloop.index > 10 %} pub-item-hidden{% endif %}" 
                      data-year="{{ paper.year }}" 
