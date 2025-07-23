@@ -941,6 +941,17 @@ body {
 }
 
 .pub-year-badge {
+  background-color: var(--background-alt);
+  color: var(--text-secondary);
+  padding: var(--space-1) var(--space-2);
+  border-radius: calc(var(--border-radius) / 2);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  border: 1px solid var(--border-color);
+  flex-shrink: 0;
+}
+
+.pub-venue-badge {
   background-color: var(--primary-color);
   color: white;
   padding: var(--space-1) var(--space-2);
@@ -949,17 +960,6 @@ body {
   font-weight: 700;
   text-align: center;
   min-width: 50px;
-  flex-shrink: 0;
-}
-
-.pub-venue-badge {
-  background-color: var(--background-alt);
-  color: var(--text-secondary);
-  padding: var(--space-1) var(--space-2);
-  border-radius: calc(var(--border-radius) / 2);
-  font-size: var(--font-size-xs);
-  font-weight: 600;
-  border: 1px solid var(--border-color);
   flex-shrink: 0;
 }
 
