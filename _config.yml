@@ -1,19 +1,19 @@
 # Site settings
-title: "Qian Li | 李倩"
-description: "Postdoctoral Researcher in Knowledge Graph at Beijing University of Posts and Telecommunications"
-url: "https://xiaoqian19940510.github.io"
+title: "Cheng Ji | 季诚"
+description: "Personal Page of Cheng Ji (季诚)"
+url: "https://jicheng-bio.github.io"
 baseurl: ""
 
 # Author information
 author:
-  name: "Qian Li"
-  email: "li.qian@bupt.edu.cn"
+  name: "Cheng Ji"
+  email: "jc@buaa.edu.cn"
   
 # Social links
 social:
-  github: "xiaoqian19940510"
-  google_scholar: "AHg-JGIAAAAJ"
-  email: "li.qian@bupt.edu.cn"
+  github: "jicheng-bio"
+  google_scholar: "fRAeIZAAAAAJ"
+  email: "jc@buaa.edu.cn"
 
 # Build settings
 markdown: kramdown
