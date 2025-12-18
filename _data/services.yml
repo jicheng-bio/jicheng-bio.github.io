@@ -16,9 +16,10 @@ conference_journal_reviewer:
   #     year: "2025"
   #   - role: "IEEE DLCV 2025 Workshop Chair"
   #     year: "2025"
-  
+
+    
   conference_reviews:
     venues: ["NeurIPS", "ICML", "ICLR", "KDD", "AAAI", "IJCAI", "SIGIR", "ACM MM", "ACL", "EMNLP", "CIKM", "WSDM", "ICDM", "DASFFA"]
   
   journal_reviews:
-    venues: ["Cell Patterns", "IEEE TIP", "Pattern Recognition", "Neurocomputing", "International Journal of Machine Learning and Cybernetics"] 
+    venues: ["Cell Patterns", "AIJ", "IEEE TIP", "Pattern Recognition", "Neurocomputing", "International Journal of Machine Learning and Cybernetics"] 
