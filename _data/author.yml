@@ -1,13 +1,13 @@
 # 作者基本信息
 name: "Cheng Ji"
 name_chinese: "季诚"
-title: "Research on Self-Supervised Graph Learning and Multi-Modal Learning"
-affiliation: "Beihang University (BUAA)"
+title: "Research on Graph Learning and Multi-Modal Learning"
+affiliation: "Zhongguancun Laboratory"
 location: "Beijing, China"
 
 # 联系方式
 contact:
-  email: "jc@buaa.edu.cn"
+  email: "jic@zhongguancun.edu.cn"
   github: "https://github.com/jicheng-bio"
   google_scholar: "https://scholar.google.com/citations?user=fRAeIZAAAAAJ"
   
@@ -22,18 +22,18 @@ research_interests:
 
 # 个人简介
 bio: |
-   I received my Ph.D. and B.S. degree from Beihang University (BUAA), advised by Prof. Li Jianxin.​ I have published about 30 CCF-A/B papers, including NeurIPS, ICLR, AAAI, IJCAI, WWW, MM, etc. Google Scholar citations exceed 1,600.
+   I received my Ph.D. and B.S. degrees from Beihang University (BUAA), advised by Prof. Li Jianxin.​ I have published about 30 CCF-A/B papers, including NeurIPS, ICLR, AAAI, IJCAI, WWW, MM, etc. Google Scholar citations exceed 2,000.
 
    I won the best paper candidate of CIKM 2022, ICDM 2021, and the First Prize of Natural Science from the Chinese Institute of Electronics.
    
-   I am serving as the program committee member and reviewer for Cell Patterns, IEEE TIP, ICML, ICLR, NeurIPS, KDD, AAAI, etc.
+   I am serving as the program committee member and reviewer for Cell Patterns, AIJ, IEEE TIP, ICML, ICLR, NeurIPS, KDD, AAAI, etc.
  
  
 
 
 # 指导理念
 mentorship_philosophy: |
-  <span style="font-weight: bold;color:red">我正在寻找自驱力较强的学生、实习生，与<a href="https://teacher.bupt.edu.cn/sgwang/zh_CN/index.htm" target="_blank">王尚广教授</a>共同指导</span>，目标是在多模态大模型、知识计算、遥感影像解译、<span style="font-weight: bold;color:red"><a href="http://www.tiansuan.org.cn/Chinese/index.html" target="_blank">卫星计算</a></span>等课题上做出有影响力的工作。
+  <span style="font-weight: bold;color:red">我正在寻找自驱力较强的学生、实习生，与<a href="https://teacher.bupt.edu.cn/sgwang/zh_CN/index.htm" target="_blank"></a>共同指导</span>，目标是在多模态大模型、知识计算、遥感影像解译、<span style="font-weight: bold;color:red"><a href="http://www.tiansuan.org.cn/Chinese/index.html" target="_blank"></a></span>等课题上做出有影响力的工作。
   <span style="font-weight: bold;color:blue">请随时通过电子邮件与我联系。</span>
   
   <span style="font-weight: bold;color:red">I am currently seeking self-motivated students and interns to co-supervise with <a href="https://teacher.bupt.edu.cn/sgwang/zh_CN/index.htm" target="_blank">Prof. Shangguang Wang</a></span>. Our goal is to conduct impactful research in areas such as multimodal LLM, knowledge computing, remote sensing image interpretation, and satellite computing. <span style="font-weight: bold;color:blue">Please feel free to contact me via email at any time.</span>
